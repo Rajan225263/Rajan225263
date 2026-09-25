@@ -1,10 +1,12 @@
-Hi, I'm Rajan Chandra Bhatta 👋
+# Hi, I'm **Rajan Chandra Bhatta** 👋
+
+### Senior Backend Developer | PHP | Laravel | CodeIgniter | NestJS | MYSQL | Oracle
 
 Senior Backend Developer with 9+ years of experience in web application development.
 
 I specialize in PHP-based backend development, Laravel, CodeIgniter, Node.js/NestJS, MySQL, REST APIs, database design, third-party API integration, and scalable backend systems.
 
-I have experience working on enterprise and large-scale applications across telecom, ERP, HRM, POS, billing, booking, government, sales and accounting domains.
+I have experience working on enterprise and large-scale applications across telecom, ERP, HRM, POS, billing, booking, government, sales, and accounting domains.
 
 ## 💼 Core Expertise
 
@@ -26,17 +28,20 @@ I have experience working on enterprise and large-scale applications across tele
 ## 🛠️ Backend Technologies
 
 ### PHP
+
 - Core PHP
 - Laravel
 - CodeIgniter
 - Zend Framework
 
 ### Node.js
+
 - Node.js
 - NestJS
 - TypeScript
 
-### API
+### API Development
+
 - REST API
 - SOAP
 - Swagger / OpenAPI
@@ -45,7 +50,7 @@ I have experience working on enterprise and large-scale applications across tele
 ## 🗄️ Database
 
 - MySQL
-- Oracle
+- Oracle (PL/SQL)
 - SQL Server
 - MongoDB (Basic)
 - MS Access (Basic)
@@ -60,8 +65,10 @@ I have experience working on enterprise and large-scale applications across tele
 - Transactions
 - Raw SQL
 - Stored Procedures
-- Function, View, Triger
-- Partitioning 
+- Functions
+- Views
+- Triggers
+- Partitioning
 
 ## ⚡ Performance & Distributed Systems
 
@@ -79,7 +86,7 @@ I have experience working on enterprise and large-scale applications across tele
 
 - Docker
 - Docker Compose
-- AWS Basic
+- AWS (Basic)
 - VPS
 - Nginx
 - Jenkins
@@ -89,9 +96,10 @@ I have experience working on enterprise and large-scale applications across tele
 - ELK Stack
 - Kong API Gateway
 
-  ## 📚 API & Documentation
+## 📚 API & Documentation
 
 - Swagger
+- OpenAPI
 - REST API
 - SOAP API
 - Postman
@@ -99,7 +107,7 @@ I have experience working on enterprise and large-scale applications across tele
 - API Validation
 - Third-party API Integration
 
-  ## 🎨 Frontend Technologies (Working Knowledge)
+## 🎨 Frontend Technologies (Working Knowledge)
 
 - HTML
 - JavaScript
@@ -140,9 +148,10 @@ I have experience working on enterprise and large-scale applications across tele
 - Campaign Management
 - Fixed Asset Management
 
-## 🏢 Selected Professional Experience
+## 💼 Selected Professional Experience
 
 ### Telecom
+
 - SKITTO
 - GP WEB
 - GP SHOP
@@ -150,6 +159,7 @@ I have experience working on enterprise and large-scale applications across tele
 - Fixed Asset Management
 
 ### Enterprise & Government
+
 - POS with VAT
 - Toll Management
 - Railway-related Systems
@@ -157,12 +167,42 @@ I have experience working on enterprise and large-scale applications across tele
 - Chittagong Port Authority ERP
 
 ### Business Applications
+
 - HRM
 - Vehicle Management
 - ICX Billing Management
 - Booking Applications
 - Sales & Accounting
 - School Management
+
+> **Confidentiality Notice:**  
+> The professional projects listed above were developed or maintained as part of my employment with various organizations. Due to company policies, client confidentiality, and intellectual property restrictions, their source code is not publicly available.
+
+## 📌 Personal Projects
+
+### 📚 Library Management System
+
+A web-based library management application developed to demonstrate backend development, database management, CRUD operations, and application architecture.
+
+**Technology Stack:**
+
+- Laravel
+- PHP
+- MySQL
+
+**Repository:**  
+[Library Management System](https://github.com/Rajan225263/library-management-rajan)
+
+### Key Areas
+
+- Library management
+- Database-driven application
+- CRUD operations
+- Backend application development
+- MySQL database integration
+- Laravel application structure
+
+> This is an independently developed personal project created to demonstrate my technical skills and development approach.
 
 ## 📖 Currently Exploring
 
@@ -193,7 +233,7 @@ I have experience working on enterprise and large-scale applications across tele
 - SQLyog
 - TOAD
 
-  ## 👥 Development Methodologies
+## 👥 Development Methodologies
 
 - Agile
 - Scrum
@@ -203,7 +243,7 @@ I have experience working on enterprise and large-scale applications across tele
 - Code Maintenance
 - Legacy System Enhancement
 
-  ## 📫 Connect With Me
+## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/rajan-chandra-bhatta-072878148/ 
-- Email: aobak63@gmail.com
+- **LinkedIn:** [Rajan Chandra Bhatta](https://www.linkedin.com/in/rajan-chandra-bhatta-072878148/)
+- **Email:** aobak63@gmail.com
